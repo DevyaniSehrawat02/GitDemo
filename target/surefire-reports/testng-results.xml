@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="48" started-at="2021-02-23T06:41:37Z" finished-at="2021-02-23T06:41:37Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="48" started-at="2021-02-23T06:41:37Z" finished-at="2021-02-23T06:41:37Z">
+      <class name="qaMavenJava.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="c()[pri:0, instance:qaMavenJava.MavenJava.AppiumTest@668bc3d5]" name="c" duration-ms="7" started-at="2021-02-23T12:11:37Z" finished-at="2021-02-23T12:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- qaMavenJava.MavenJava.AppiumTest -->
+      <class name="qaMavenJava.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="a()[pri:0, instance:qaMavenJava.MavenJava.SeleniumTest@3fb6a447]" name="a" duration-ms="1" started-at="2021-02-23T12:11:37Z" finished-at="2021-02-23T12:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:qaMavenJava.MavenJava.SeleniumTest@3fb6a447]" name="b" duration-ms="1" started-at="2021-02-23T12:11:37Z" finished-at="2021-02-23T12:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- qaMavenJava.MavenJava.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
