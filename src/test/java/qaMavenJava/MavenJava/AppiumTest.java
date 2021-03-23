@@ -11,4 +11,10 @@ public class AppiumTest {
 		System.out.println("git hub practice changes is done on main file");
 	}
 
+	@Test
+	public void h()
+	{
+		System.out.println("hello");
+		System.out.println("in a develop branch ");
+	}
 }
